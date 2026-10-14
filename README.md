@@ -1,6 +1,4 @@
-<div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="olejani4 | Data Analytics | SQL, Python, Power BI" />
 
 ### Привет, я olejani4
 
@@ -16,15 +14,6 @@
 
 ## Инструменты в моих проектах
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&amp;logo=scipy&amp;logoColor=black" alt="SciPy" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&amp;logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
-</p>
 
 ## Избранные проекты
 
