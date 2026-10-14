@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">olejani4 | Data Analytics</title>
+  <desc id="desc">Portfolio: SQL, Python and Power BI. A data chart with rising bars and connected points.</desc>
+  <rect width="1200" height="300" fill="#171b20"/>
+  <rect x="0" y="0" width="10" height="300" fill="#45d6b0"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="62" y="65" fill="#45d6b0" font-size="16" font-weight="600">DATA / ANALYTICS / PORTFOLIO</text>
+    <text x="60" y="134" fill="#ffffff" font-size="54" font-weight="700">olejani4</text>
+    <text x="63" y="178" fill="#c1c9d1" font-size="24">Turning data into clear conclusions.</text>
+    <text x="63" y="252" fill="#ffffff" font-size="19">SQL</text>
+    <circle cx="119" cy="246" r="3" fill="#45d6b0"/>
+    <text x="139" y="252" fill="#ffffff" font-size="19">Python</text>
+    <circle cx="225" cy="246" r="3" fill="#45d6b0"/>
+    <text x="245" y="252" fill="#ffffff" font-size="19">Power BI</text>
+  </g>
+  <g transform="translate(765 44)">
+    <path d="M0 206H365 M0 156H365 M0 106H365 M0 56H365" stroke="#343b44" stroke-width="1"/>
+    <rect x="13" y="146" width="40" height="60" fill="#364b59"/>
+    <rect x="79" y="112" width="40" height="94" fill="#466776"/>
+    <rect x="145" y="131" width="40" height="75" fill="#587f8f"/>
+    <rect x="211" y="70" width="40" height="136" fill="#6c9aab"/>
+    <rect x="277" y="35" width="40" height="171" fill="#e5bd55"/>
+    <path d="M33 128L99 83L165 100L231 46L297 8" fill="none" stroke="#45d6b0" stroke-width="4" stroke-linejoin="round"/>
+    <g fill="#171b20" stroke="#45d6b0" stroke-width="3">
+      <circle cx="33" cy="128" r="6"/><circle cx="99" cy="83" r="6"/><circle cx="165" cy="100" r="6"/><circle cx="231" cy="46" r="6"/><circle cx="297" cy="8" r="6"/>
+    </g>
+  </g>
+</svg>
